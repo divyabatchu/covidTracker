@@ -1,4 +1,4 @@
-<b><i>COVID-19 Tracker</i></b>
+<b><i>COVID-19 Tracker</i></b> <br/>
 -> In this page we can get daily update of <b>COVID-19</b> situation all over world <br/>
 -> we can get data on each country by selecting country in dropdown default it will be global<br/>
 -> Global data through Line Chart through 'reactjs-charts'<br/>
