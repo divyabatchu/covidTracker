@@ -8,4 +8,4 @@ COVID-19 Tracker
 React-js (based on Hooks)
 -> According to new updates of react this project is devloped with Hooks conepts
 
-Material -UI  used for styling 
+Material -UI  used for styling .
